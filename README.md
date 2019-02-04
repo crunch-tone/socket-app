@@ -1,9 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-It's a test project (unfinished). This is my first acquaintance with the NodeJS and Socket.io technologies, as well as the first project on ReactJS outside the Codecademy sandbox.
+This is a test project (unfinished). This is my first acquaintance with the NodeJS and Socket.io technologies, as well as the first project on ReactJS outside the Codecademy sandbox.
 The files I created are:"./src/App.js", "./src/components", "./server".
 
 The goal was to create Chat app with different Chatrooms. At this moment I created chatroom-server connection and started to create chatrooms components. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
